@@ -26,12 +26,12 @@ I am Junteng Liu, a first-year PhD candidate at HKUST NLP Group. My research foc
 
 ## Publications
 
-- [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org) (2025) — First author, published on Arxiv. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-- [On the Perception Bottleneck of VLMs for Chart Understanding](https://arxiv.org) (2025) — First author, published on Arxiv. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-- [On the Universal Truthfulness Hyperplane Inside LLMs](https://arxiv.org) — 2024, first author, published at EMNLP 2024. Co-authors: Shiqi Chen, Yu Cheng, Junxian He
-- [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](https://arxiv.org) — 2024, co-authored, published at ICML 2024. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
-- [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org) — 2023, co-authored, published at NeurIPS 2023. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
-- [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org) — 2023, co-authored, published at NeurIPS 2023. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+- SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025) - First author, published on Arxiv. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+- On the Perception Bottleneck of VLMs for Chart Understanding (2025) - First author, published on Arxiv. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+- On the Universal Truthfulness Hyperplane Inside LLMs - 2024, first author, published at EMNLP 2024. Co-authors: Shiqi Chen, Yu Cheng, Junxian He
+- In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation - 2024, co-authored, published at ICML 2024. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+- C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models - 2023, co-authored, published at NeurIPS 2023. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+- Composing Parameter-Efficient Modules with Arithmetic Operations - 2023, co-authored, published at NeurIPS 2023. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
 ## Skills
 
@@ -43,7 +43,7 @@ I am Junteng Liu, a first-year PhD candidate at HKUST NLP Group. My research foc
 
 ## Contact Information
 
-- Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- Email: jliugi@connect.ust.hk
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
-- Google Scholar: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
+- Google Scholar profile: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X (Twitter): @junteng88716710
